@@ -1,7 +1,7 @@
 import tkinter 
 from tkinter import *
-from Settings import *
-from Editor_for_text import *
+from settings import *
+from text_editor import *
 
 
 app.title(APP_NAME)  # app name

@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter.filedialog import askopenfile, asksaveasfile, askopenfilename, asksaveasfilename
 from tkinter.messagebox import showerror
 from tkinter import messagebox
-from Settings import *
+from settings import *
 
 
 app = Tk()
